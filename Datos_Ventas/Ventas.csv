@@ -1,11 +1,11 @@
-ID_Venta	Fecha	Producto	Cantidad	Precio_Unitario	Total	Cliente	Empleado	Sucursal	Método_Pago
-1	2025-01-03	Teclado Mecánico	2	45.99	91.98	Carlos Ruiz	Ana López	Centro	Tarjeta
-2	2025-01-04	Mouse Inalámbrico	1	19.50	19.50	María Gómez	Pedro Silva	Norte	Efectivo
-3	2025-01-04	Monitor 24"	1	129.99	129.99	Juan Ortega	Luis Pérez	Sur	Tarjeta
-4	2025-01-05	Auriculares Bluetooth	3	25.00	75.00	Sofía Medina	Ana López	Centro	Efectivo
-5	2025-01-05	Laptop 15"	1	699.00	699.00	Pablo Herrera	Carla Torres	Norte	Tarjeta
-6	2025-01-06	USB 64GB	4	9.99	39.96	Lucía Campos	Pedro Silva	Sur	Efectivo
-7	2025-01-06	Webcam HD	1	39.99	39.99	Raúl Pérez	Luis Pérez	Centro	Tarjeta
-8	2025-01-07	Impresora	1	159.00	159.00	Elena Ríos	Carla Torres	Norte	Tarjeta
-9	2025-01-07	Router WiFi	2	49.90	99.80	Miguel Soto	Pedro Silva	Sur	Efectivo
-10	2025-01-08	Altavoces PC	1	29.99	29.99	Valeria Cruz	Ana López	Centro
+ID_Venta,Fecha,Producto,Cantidad,Precio_Unitario,Total,Cliente,Empleado,Sucursal,Metodo_Pago
+1,2025-01-03,Teclado Mecánico,2,45.99,91.98,Carlos Ruiz,Ana López,Centro,Tarjeta
+2,2025-01-04,Mouse Inalámbrico,1,19.50,19.50,María Gómez,Pedro Silva,Norte,Efectivo
+3,2025-01-04,Monitor 24",1,129.99,129.99,Juan Ortega,Luis Pérez,Sur,Tarjeta
+4,2025-01-05,Auriculares Bluetooth,3,25.00,75.00,Sofía Medina,Ana López,Centro,Efectivo
+5,2025-01-05,Laptop 15",1,699.00,699.00,Pablo Herrera,Carla Torres,Norte,Tarjeta
+6,2025-01-06,USB 64GB,4,9.99,39.96,Lucía Campos,Pedro Silva,Sur,Efectivo
+7,2025-01-06,Webcam HD,1,39.99,39.99,Raúl Pérez,Luis Pérez,Centro,Tarjeta
+8,2025-01-07,Impresora,1,159.00,159.00,Elena Ríos,Carla Torres,Norte,Tarjeta
+9,2025-01-07,Router WiFi,2,49.90,99.80,Miguel Soto,Pedro Silva,Sur,Efectivo
+10,2025-01-08,Altavoces PC,1,29.99,29.99,Valeria Cruz,Ana López,Centro,Tarjeta
