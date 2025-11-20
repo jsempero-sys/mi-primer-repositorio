@@ -1,1 +1,11 @@
-
+ID_Usuario,Nombre,Apellido,Email,Telefono,Fecha_Registro,Pais,Estado_Cuenta
+1,Carlos,Ruiz,carlos.ruiz@example.com,+5215512345678,2024-11-10,México,Activa
+2,María,Gómez,maria.gomez@example.com,+573015558899,2024-11-12,Colombia,Activa
+3,Juan,Ortega,juan.ortega@example.com,+34661222333,2024-11-13,España,Suspendida
+4,Sofía,Medina,sofia.medina@example.com,+541162334455,2024-11-15,Argentina,Activa
+5,Pablo,Herrera,pablo.herrera@example.com,+56998765432,2024-11-16,Chile,Activa
+6,Lucía,Campos,lucia.campos@example.com,+50760011223,2024-11-18,Panamá,Inactiva
+7,Raúl,Pérez,raul.perez@example.com,+525512002200,2024-11-19,México,Activa
+8,Elena,Ríos,elena.rios@example.com,+593099887766,2024-11-20,Ecuador,Activa
+9,Miguel,Soto,miguel.soto@example.com,+50244112233,2024-11-20,Guatemala,Inactiva
+10,Valeria,Cruz,valeria.cruz@example.com,+50499887766,2024-11-21,Honduras,Activa
