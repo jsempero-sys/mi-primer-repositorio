@@ -1,5 +1,3 @@
-
-```csv
 ID_Venta,Fecha,Producto,Cantidad,Precio_Unitario,Total,Cliente,Empleado,Sucursal,Metodo_Pago
 1,2025-01-03,Teclado Mecánico,2,45.99,91.98,Carlos Ruiz,Ana López,Centro,Tarjeta
 2,2025-01-04,Mouse Inalámbrico,1,19.50,19.50,María Gómez,Pedro Silva,Norte,Efectivo
@@ -11,3 +9,4 @@ ID_Venta,Fecha,Producto,Cantidad,Precio_Unitario,Total,Cliente,Empleado,Sucursal
 8,2025-01-07,Impresora,1,159.00,159.00,Elena Ríos,Carla Torres,Norte,Tarjeta
 9,2025-01-07,Router WiFi,2,49.90,99.80,Miguel Soto,Pedro Silva,Sur,Efectivo
 10,2025-01-08,Altavoces PC,1,29.99,29.99,Valeria Cruz,Ana López,Centro,Tarjeta
+
